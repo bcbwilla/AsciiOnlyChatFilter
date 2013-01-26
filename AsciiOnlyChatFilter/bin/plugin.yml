@@ -1,0 +1,9 @@
+main: com.gmail.bcbwilla.asciionlychatfilter.AsciiOnlyChatFilter
+name: AsciiOnlyChatFilter
+version: 1.0
+author: bcbwilla
+description: Toggleable chat filter that allows players to filter non-ascii characters.
+commands:
+    asciionly:
+        description: Toggles asciionly, which filters non-ascii characters from chat.
+        useage: /<command>
